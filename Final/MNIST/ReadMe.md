@@ -1,6 +1,6 @@
-=============================================================
 Created by:
 Fauzul Haqi Siregar (1103180037)
+=============================================================
 
 These Codes are reproduced from following github repository :
 https://github.com/ansh941/MnistSimpleCNN
